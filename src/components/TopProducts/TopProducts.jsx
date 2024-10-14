@@ -1,4 +1,3 @@
-import { data } from "autoprefixer";
 import React from "react";
 import Img1 from "../../assets/shirt/shirt.png";
 import Img2 from "../../assets/shirt/shirt2.png";
@@ -43,7 +42,7 @@ const TopProducts = ({ handleOrderPopup }) => {
           </h1>
           <p data-aos="fade-up" className="text-xs text-gray-700">
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Perspiciatis, dolore.
+            Perspiciatis, dolore. Perspiciatis, dolore.
           </p>
         </div>
 
